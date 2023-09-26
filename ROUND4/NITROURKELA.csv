@@ -1,0 +1,362 @@
+branch,seatpool,oprank,closerank,category
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,18681,22480,OBC-NCL
+"Bio Technology (4 Years, Bachelor of Technology)",Female-Only,28910,28910,OBC-NCL
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,6167,6167,GEN-EWS
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,30530,46420,OPEN
+"Bio Technology (4 Years, Bachelor of Technology)",Female-Only,38824,38824,OPEN
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,1429,1429,OPEN (PwD)
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,3624,7524,SC
+"Bio Technology (4 Years, Bachelor of Technology)",Female-Only,10696,10696,SC
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,3089,3089,ST
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,8201,9049,OBC-NCL
+"Bio Technology (4 Years, Bachelor of Technology)",Female-Only,9515,9515,OBC-NCL
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,3775,3775,GEN-EWS
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,20487,25648,OPEN
+"Bio Technology (4 Years, Bachelor of Technology)",Female-Only,25330,25330,OPEN
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,3180,3194,SC
+"Bio Technology (4 Years, Bachelor of Technology)",Female-Only,3885,3885,SC
+"Bio Technology (4 Years, Bachelor of Technology)",Gender-Neutral,518,518,ST
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,15402,23559,OBC-NCL
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Female-Only,27922,27922,OBC-NCL
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,5940,5940,GEN-EWS
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,33235,45833,OPEN
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Female-Only,40936,44521,OPEN
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,8464,8677,SC
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4324,4324,ST
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,9393,10107,OBC-NCL
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Female-Only,16123,16123,OBC-NCL
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,791,791,OBC-NCL(PwD)
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3803,3803,GEN-EWS
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,22883,29521,OPEN
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Female-Only,36661,38026,OPEN
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4412,4836,SC
+"Ceramic Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2297,2763,ST
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6705,14864,OBC-NCL
+"Chemical Engineering (4 Years, Bachelor of Technology)",Female-Only,23324,24933,OBC-NCL
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4139,4139,GEN-EWS
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,22261,27481,OPEN
+"Chemical Engineering (4 Years, Bachelor of Technology)",Female-Only,23745,28716,OPEN
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,5538,5765,SC
+"Chemical Engineering (4 Years, Bachelor of Technology)",Female-Only,7509,7509,SC
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1830,2725,ST
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4573,5598,OBC-NCL
+"Chemical Engineering (4 Years, Bachelor of Technology)",Female-Only,7380,8432,OBC-NCL
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1986,1986,GEN-EWS
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,11862,15039,OPEN
+"Chemical Engineering (4 Years, Bachelor of Technology)",Female-Only,16534,19008,OPEN
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3365,3537,SC
+"Chemical Engineering (4 Years, Bachelor of Technology)",Female-Only,4314,4314,SC
+"Chemical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,998,1505,ST
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,9828,15684,OBC-NCL
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,17167,17167,OBC-NCL
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,891,891,OBC-NCL(PwD)
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3198,3943,GEN-EWS
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,12873,25432,OPEN
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,16563,30422,OPEN
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,877,877,OPEN (PwD)
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2154,5372,SC
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,5722,5722,SC
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1541,1992,ST
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,2117,2117,ST
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3568,4730,OBC-NCL
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,7892,7892,OBC-NCL
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1926,1926,GEN-EWS
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,10847,15032,OPEN
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,19041,20501,OPEN
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,514,514,OPEN (PwD)
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1875,2585,SC
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,3388,3388,SC
+"Civil Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,578,750,ST
+"Civil Engineering (4 Years, Bachelor of Technology)",Female-Only,1324,1324,ST
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1960,4382,OBC-NCL
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,3991,9199,OBC-NCL
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,513,513,OBC-NCL(PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1356,1551,GEN-EWS
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2253,9420,OPEN
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,6375,10746,OPEN
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,508,508,OPEN (PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,840,840,OPEN (PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,454,2545,SC
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,3315,3315,SC
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,522,721,ST
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,173,173,ST
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,608,1171,OBC-NCL
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,2713,2902,OBC-NCL
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,67,67,OBC-NCL(PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,344,347,GEN-EWS
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1814,3567,OPEN
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,3840,5190,OPEN
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,56,56,OPEN (PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,166,166,OPEN (PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,191,411,SC
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,741,741,SC
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,22,22,SC (PwD)
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,53,249,ST
+"Computer Science and Engineering (4 Years, Bachelor of Technology)",Female-Only,352,352,ST
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4540,10522,OBC-NCL
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,12847,26185,OBC-NCL
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,700,700,OBC-NCL(PwD)
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2646,2848,GEN-EWS
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4084,20005,OPEN
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,13724,18373,OPEN
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,987,987,OPEN (PwD)
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2888,5321,SC
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,3415,3415,SC
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1301,2149,ST
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,1452,1452,ST
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2256,3262,OBC-NCL
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,3906,4274,OBC-NCL
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,301,301,OBC-NCL(PwD)
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,984,1009,GEN-EWS
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,5578,8412,OPEN
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,11363,13329,OPEN
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,285,285,OPEN (PwD)
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1072,1489,SC
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,2598,2598,SC
+"Electrical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,263,516,ST
+"Electrical Engineering (4 Years, Bachelor of Technology)",Female-Only,670,670,ST
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4434,5541,OBC-NCL
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,10572,10572,OBC-NCL
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1699,1699,GEN-EWS
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,8571,12009,OPEN
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,11081,14075,OPEN
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,903,903,OPEN (PwD)
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1950,2821,SC
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,2467,2467,SC
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,787,1060,ST
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,1848,1848,ST
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1511,1787,OBC-NCL
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,2924,2924,OBC-NCL
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,95,95,OBC-NCL(PwD)
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,618,618,GEN-EWS
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4384,5221,OPEN
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,8332,9375,OPEN
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,641,1019,SC
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,1569,1569,SC
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,465,538,ST
+"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",Female-Only,619,628,ST
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4996,9757,OBC-NCL
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,20242,26809,OBC-NCL
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1370,1370,OBC-NCL(PwD)
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2992,3171,GEN-EWS
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,11662,20952,OPEN
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,14441,27430,OPEN
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,470,621,OPEN (PwD)
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2384,4703,SC
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,3884,3884,SC
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1310,1612,ST
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,2711,2711,ST
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2489,3168,OBC-NCL
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,6872,7413,OBC-NCL
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,344,344,OBC-NCL(PwD)
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,655,655,OBC-NCL(PwD)
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1165,1323,GEN-EWS
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6540,9844,OPEN
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,13448,18218,OPEN
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,389,389,OPEN (PwD)
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,923,1619,SC
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,3424,3424,SC
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,183,596,ST
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Female-Only,1353,1353,ST
+"Mechanical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,19,19,ST (PwD)
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,11741,17741,OBC-NCL
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Female-Only,13556,13556,OBC-NCL
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4630,4630,GEN-EWS
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,26966,31375,OPEN
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Female-Only,35668,37029,OPEN
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2185,2185,OPEN (PwD)
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,5563,6420,SC
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Female-Only,7514,7514,SC
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2875,2897,ST
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6948,8077,OBC-NCL
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Female-Only,12462,12462,OBC-NCL
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2782,2782,GEN-EWS
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,15182,22073,OPEN
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Female-Only,28929,30589,OPEN
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1217,1217,OPEN (PwD)
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3118,4183,SC
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Female-Only,6307,6307,SC
+"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1628,1694,ST
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,13634,18147,OBC-NCL
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4936,4936,GEN-EWS
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,30308,35469,OPEN
+"Mining Engineering (4 Years, Bachelor of Technology)",Female-Only,37220,37552,OPEN
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,5650,6524,SC
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2010,2010,ST
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6544,8134,OBC-NCL
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3303,3303,GEN-EWS
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,19095,25937,OPEN
+"Mining Engineering (4 Years, Bachelor of Technology)",Female-Only,33192,36995,OPEN
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3768,4158,SC
+"Mining Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1536,1536,ST
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,5709,10937,OBC-NCL
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Female-Only,15815,17320,OBC-NCL
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2904,2904,GEN-EWS
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,18656,21801,OPEN
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Female-Only,17369,20982,OPEN
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1793,4332,SC
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Female-Only,6219,6219,SC
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2219,2718,ST
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,3456,3825,OBC-NCL
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Female-Only,3773,6355,OBC-NCL
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1580,1580,GEN-EWS
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6839,10985,OPEN
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Female-Only,12174,14016,OPEN
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,492,492,OPEN (PwD)
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2544,2712,SC
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Female-Only,3137,3137,SC
+"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1147,1161,ST
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,22506,33711,OBC-NCL
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Female-Only,27196,27196,OBC-NCL
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6486,6486,GEN-EWS
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,47093,49466,OPEN
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Female-Only,48043,48043,OPEN
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2492,2492,OPEN (PwD)
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,8416,9099,SC
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Female-Only,16016,16016,SC
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4076,4076,ST
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,10920,11304,OBC-NCL
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Female-Only,15141,15141,OBC-NCL
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4129,4129,GEN-EWS
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,17017,30148,OPEN
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Female-Only,30142,30142,OPEN
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2068,2086,SC
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Female-Only,7398,7398,SC
+"Bio Medical Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,2300,2300,ST
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,17704,21782,OBC-NCL
+"Industrial Design (4 Years, Bachelor of Technology)",Female-Only,29007,29007,OBC-NCL
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,5756,5756,GEN-EWS
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,32750,39783,OPEN
+"Industrial Design (4 Years, Bachelor of Technology)",Female-Only,39993,43617,OPEN
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,7471,9052,SC
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,4421,4421,ST
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,5904,8035,OBC-NCL
+"Industrial Design (4 Years, Bachelor of Technology)",Female-Only,11747,11747,OBC-NCL
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,3725,3725,GEN-EWS
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,14940,24199,OPEN
+"Industrial Design (4 Years, Bachelor of Technology)",Female-Only,26396,28015,OPEN
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,1990,4690,SC
+"Industrial Design (4 Years, Bachelor of Technology)",Gender-Neutral,2152,2152,ST
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,19531,29530,OBC-NCL
+"Food Process Engineering (4 Years, Bachelor of Technology)",Female-Only,34343,34343,OBC-NCL
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6648,6648,GEN-EWS
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,44159,51491,OPEN
+"Food Process Engineering (4 Years, Bachelor of Technology)",Female-Only,49381,49381,OPEN
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,7694,7870,SC
+"Food Process Engineering (4 Years, Bachelor of Technology)",Female-Only,12545,12545,SC
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,6204,6204,ST
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,9594,10838,OBC-NCL
+"Food Process Engineering (4 Years, Bachelor of Technology)",Female-Only,13270,13270,OBC-NCL
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4175,4175,GEN-EWS
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,25573,31471,OPEN
+"Food Process Engineering (4 Years, Bachelor of Technology)",Female-Only,27711,27711,OPEN
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,355,355,OPEN (PwD)
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,4136,6596,SC
+"Food Process Engineering (4 Years, Bachelor of Technology)",Female-Only,7137,7137,SC
+"Food Process Engineering (4 Years, Bachelor of Technology)",Gender-Neutral,1805,1805,ST
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,857,1272,OBC-NCL
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,569,569,GEN-EWS
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,1717,2903,OPEN
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,13,13,OPEN (PwD)
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,503,876,SC
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,221,221,ST
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,535,743,OBC-NCL
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,318,318,GEN-EWS
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,861,1701,OPEN
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,45,148,SC
+"Architecture (5 Years, Bachelor of Architecture)",Gender-Neutral,158,158,ST
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,15656,16064,OBC-NCL
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,28637,32098,OPEN
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,6533,6533,SC
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,3363,3363,ST
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,4445,4445,OBC-NCL
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,2916,2916,GEN-EWS
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,16184,18367,OPEN
+"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,2575,2575,SC
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,19926,19926,OBC-NCL
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,4685,4685,GEN-EWS
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,29963,36166,OPEN
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,1101,1101,OPEN (PwD)
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,6897,6897,SC
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,8628,10060,OBC-NCL
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,3863,3863,GEN-EWS
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,11326,23002,OPEN
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,1410,1410,OPEN (PwD)
+"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of
+Technology (Dual Degree))",Gender-Neutral,5190,5190,SC
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,19315,24395,OBC-NCL
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,36560,42239,OPEN
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,6904,6904,SC
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,8564,8564,OBC-NCL
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,4111,4111,GEN-EWS
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,27575,28732,OPEN
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,6026,6026,SC
+"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",Gender-Neutral,2238,2238,ST
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,15069,25198,OBC-NCL
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,6449,6449,GEN-EWS
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,46069,48589,OPEN
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,9575,9575,SC
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,4963,4963,ST
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,10535,10842,OBC-NCL
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,31749,34334,OPEN
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,6514,6514,SC
+"Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master
+of Technology (Dual Degree))",Gender-Neutral,2735,2735,ST
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,20946,25734,OBC-NCL
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,7719,7809,GEN-EWS
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,47750,51597,OPEN
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,10350,10432,SC
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,3897,3897,ST
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,8215,11025,OBC-NCL
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,3585,3585,GEN-EWS
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,20391,28501,OPEN
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,4999,6042,SC
+"Chemistry (5 Years, Integrated Master of Science)",Gender-Neutral,3151,3151,ST
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,13549,20459,OBC-NCL
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,7146,7146,GEN-EWS
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,26647,49006,OPEN
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,8467,10582,SC
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,3652,3652,ST
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,5390,9053,OBC-NCL
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,2186,2186,GEN-EWS
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,10133,15757,OPEN
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,1736,2198,SC
+"Physics (5 Years, Integrated Master of Science)",Gender-Neutral,2447,2447,ST
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,22308,26372,OBC-NCL
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,6660,6660,GEN-EWS
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,39730,48972,OPEN
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,7357,8821,SC
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,5212,5212,ST
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,7355,9691,OBC-NCL
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,2275,2275,GEN-EWS
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,5407,18230,OPEN
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,3025,3025,OPEN (PwD)
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,4733,5216,SC
+"Mathematics (5 Years, Integrated Master of Science)",Gender-Neutral,1291,1291,ST
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,32239,35510,OBC-NCL
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,9481,11551,GEN-EWS
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,55092,58335,OPEN
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,11224,11224,SC
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,6183,6183,ST
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,13651,13687,OBC-NCL
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,5479,5479,GEN-EWS
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,40854,42262,OPEN
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,3846,7528,SC
+"Life Science (5 Years, Integrated Master of Science)",Gender-Neutral,2432,2432,ST
