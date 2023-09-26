@@ -40,7 +40,7 @@ Before you begin, make sure you have the following software installed on your sy
     ```bash
     pip install -r requirements.txt
 
-**Running the Application**
+### Running the Application
 
 4. Start the Flask development server:
 
